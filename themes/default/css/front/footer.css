@@ -1,0 +1,103 @@
+<br />@charset "utf-8";
+/* CSS Document */
+
+#footer {
+    width: 900px;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	margin-top:10px;
+	margin-bottom:0px;
+	padding-top:5px;
+	margin-left:auto;
+	margin-right:auto;
+	float: center;
+}
+
+.footer_divider {
+	text-align:center;
+	height:10px;
+}
+
+.footer p {
+	font-size:12px;
+	padding-right:35px;
+}
+
+.footer a:hover {
+	color:#456fa1;
+}
+
+.contact {
+	height:150px;
+	float:left;
+	padding-left:70px;
+	width:250px;
+	padding-top:10px;
+}
+
+.contact a {
+	color:#3c5c83;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	padding-left:3px;
+}
+
+.contact a:hover {
+	color:#456fa1;
+}
+
+.about {
+	float:left;
+	width:380px;
+	padding-top:10px;
+}
+
+.about h3 a {
+	color:#333;
+}
+
+.about a {
+	color:#3c5c83;
+}
+
+.about a:hover {
+	color:#456fa1;
+}
+
+.logo {
+	float:right;
+	padding-right:120px;
+	margin-top:-5px;
+	padding-bottom:30px;
+}
+
+.links {
+	padding-top:10px;
+}
+
+.external_link {
+	padding-top:0px;
+	padding-left:380px;
+}
+
+.external_link h3 a {
+	font-size:16px;
+	color:#333;
+}
+
+.external_link p {
+	padding-right:0px;
+	margin-top:0px;
+	font-size:12px;
+	color:#999;
+}
+
+.external_link p a:hover {
+	color:#456fa1;
+}
+
+.external_link h3 a:hover {
+	color:#456fa1;
+}

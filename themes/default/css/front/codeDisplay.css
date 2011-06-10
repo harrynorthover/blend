@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+
+pre {
+	width: 100%;
+	background:#ECECEC;
+	border:1px solid #CCC;
+	padding:15px;	
+	overflow: auto;
+}

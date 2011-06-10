@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item>
+		<title>Coming Home, My Latest Matte Painting.</title>
+		<desc>This is my first finished matte painting, created using Photoshop CS3.</desc>
+		<link>http://www.google.com</link>
+		<contentUrl>themes/default/slideshow/pictures/1.jpg</contentUrl>
+	</item>
+
+	<item>
+		<title>Desire.</title>
+		<desc>My latest piece, Desire. Created using Cinema4D and Photoshop CS4</desc>
+		<link>http://www.google.com</link>
+		<contentUrl>themes/default/slideshow/pictures/3.jpg</contentUrl>
+	</item>
+
+	<item>
+		<title>Fancy a read? Try my blog!</title>
+		<desc>Covering everything possible to do with being a digital creative, and everything surrounding it.</desc>
+		<link>http://www.harrynorthover.com/blog</link>
+		<contentUrl>themes/default/slideshow/pictures/4.jpg</contentUrl>
+	</item>
+
+	<!--<item>
+		<title>Latest Tweet.</title>
+		<desc>The latest tweet from my Twitter account, @harrynorthover.</desc>
+		<link>http://www.twitter.com/harrynorthover</link>
+		<contentUrl>assets/latest_twitter/bin/latest_twitter.swf</contentUrl>
+	</item>-->
+
+	<!--<item>
+		<title>Twitter & LinkedIn.</title>
+		<desc>Other than my site, you can find me on Twitter (@harrynorthover) or on LinkedIn!</desc>
+		<link>http://www.twitter.com/harrynorthover</link>
+		<contentUrl>pictures/5.jpg</contentUrl>
+	</item>-->
+
+</items>

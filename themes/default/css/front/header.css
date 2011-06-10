@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+.main_text_content {
+	/*width:800px;*/
+}
+
+.logo {
+	margin:0000;
+	border:0;
+}
+.flash_slideshow {
+	padding-top:50px;
+	padding-bottom:20px;
+	width:900;
+	height:450;
+	text-align:center;
+}
+
+.get_flash_img a:hover {
+	border:thick;
+	border-color:#C1C2F9;
+}
+
+.menu {
+	height:40px;
+	text-align:right;
+	font-family:Calibri, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	padding-right:60px;
+	padding-top:25px;
+	color:#94A9FC;
+	vertical-align:middle;
+	word-spacing:10px;
+}
+
+.menu a {
+	color:#94A9FC;
+	text-decoration:none;
+	letter-spacing:normal;
+}
+
+.menu a:hover {
+	color:#FFF;
+	/*border-top:2px;
+	border-top-color:#fff;*/
+}
