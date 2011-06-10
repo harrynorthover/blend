@@ -2,7 +2,7 @@
 
 Blend is a PHP/MySQL based content management system that has been developed to power my new portfolio & blog. 
 
------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 
 The core functionality is under the system/ folder which follows the MVC pattern. 
 
@@ -13,3 +13,7 @@ The core functionality is under the system/ folder which follows the MVC pattern
 'model/' contains all functionality for managing the database, which contains support for blog posts, categories, portfolio items, comments, settings, users and more. 
 
 'themes/' directory has any front end site themes, and the backend CMS themes are stores in 'system/themes'. 
+
+---------------------------------------------------------------------------------------------------------------------
+
+NOTES: The controllers for the front-end templates still need a lot of development and therefore the CMS is not ready for production yet. 
