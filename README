@@ -2,7 +2,7 @@
 
 Blend is a PHP/MySQL based content management system that has been developed to power my new portfolio & blog. 
 
-<hr>
+-----------------------------------------------------------------------------------------------------------------------------------
 
 The core functionality is under the system/ folder which follows the MVC pattern. 
 
