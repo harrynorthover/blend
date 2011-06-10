@@ -1,0 +1,15 @@
+* This project is still undergoing development - for updates, go to www.harrynorthover.com * 
+
+Blend is a PHP/MySQL based content management system that has been developed to power my new portfolio & blog. 
+
+<hr>
+
+The core functionality is under the system/ folder which follows the MVC pattern. 
+
+'application/' contains the core functionality (URL routing, theme loading, etc..) for the CMS. 
+
+'controller/' contains the controllers for the front end site, the 'admin/' directory contains all the controllers for the admin functionality. 
+
+'model/' contains all functionality for managing the database, which contains support for blog posts, categories, portfolio items, comments, settings, users and more. 
+
+'themes/' directory has any front end site themes, and the backend CMS themes are stores in 'system/themes'. 
